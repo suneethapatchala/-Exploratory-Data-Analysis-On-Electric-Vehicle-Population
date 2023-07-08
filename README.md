@@ -1,13 +1,13 @@
-# Exploratory Data Analysis On TripAdvisor European restaurants
+# Exploratory Data Analysis On  Exploratory Data Analysis On Electric Vehicle Population
 
-View the project on Jovian:https://jovian.com/sunithapachala93/eda
+View the project on Jovian:https://jovian.com/sunithapachala93/eda-project-electric-vehicle
 
-The goal of this project is to analyse and visualise the TripAdvisor European restaurants
+The goal of this project is to analyse and visualise the  Electric Vehicle Population
  dataset from Kaggle using Python (Matplotlib, seaborn and plotly).
 
 The project involves the following steps:
 
-Download the TripAdvisor European restaurants
+Download the  Electric Vehicle Population
 dataset from kaggle and convert it into a pandas dataframe
 Perform data cleaning/deal with missing values using Pandas and NumPy.
 Plot interactive graphs to understand the data using visual libraries like Plotly.
